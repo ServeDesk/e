@@ -3,7 +3,7 @@ How to Update Epson Printer Drivers Automatically and Manually (Windows & Mac)
 
 .. image:: get.png
    :alt: Epson Printer Drivers
-   :target: 
+   :target: https://pre.im/?4YTrHbkkyqwEI3RlpTSHVnd4xHFXVLLJMZQycLom530OIX9bEq7oSh2KmoNICuamEzLbhrwG0BxvI
 
 Keeping your Epson printer driver up to date is essential for smooth performance, compatibility, and access to advanced features like wireless printing, ink monitoring, and duplex settings. Whether you're using Windows 11, Windows 10, or macOS Sonoma, this guide shows you how to update Epson printer drivers automatically and manually—step-by-step.
 
